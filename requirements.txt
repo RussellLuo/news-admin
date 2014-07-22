@@ -1,0 +1,6 @@
+flask-admin==1.0.8
+flask-sqlalchemy==1.0
+flask-login==0.2.11
+flask-babelex==0.9.1
+py-bcrypt==0.4
+mysql-python==1.2.5
